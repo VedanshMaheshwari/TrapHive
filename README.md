@@ -1,7 +1,4 @@
 # TrapHive
-TrapHive: A modular SSH and HTTP honeypot framework for threat intelligence collection. This Python-based tool simulates vulnerable systems to safely capture, log, and analyze attack patterns through an intuitive dashboard.
-
-# TrapHive
 
 TrapHive is a modular honeypot framework designed to collect and analyze attack patterns through simulated SSH and HTTP (WordPress) vulnerable services. This tool enables security researchers and professionals to gather threat intelligence by monitoring attacker behavior in a controlled environment.
 
