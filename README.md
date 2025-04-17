@@ -2,7 +2,6 @@
 
 TrapHive is a modular honeypot framework designed to collect and analyze attack patterns through simulated SSH and HTTP (WordPress) vulnerable services. This tool enables security researchers and professionals to gather threat intelligence by monitoring attacker behavior in a controlled environment.
 
-![TrapHive Logo](assets/images/honeypy-logo-white.png)
 
 ## Features
 
@@ -135,11 +134,6 @@ TrapHive generates several log files in the `ssh_honeypy/log_files/` directory:
 - `cmd_audits.log`: Commands executed by attackers
 - `http_audit.log`: HTTP login attempts
 
-## Dashboard
-
-The dashboard provides visual analytics of attack data and can be accessed by navigating to `http://[your-server-ip]:[dashboard-port]` in a web browser.
-
-![Dashboard Screenshot](assets/images/dashboard-screenshot.png)
 
 ## Security Considerations
 
