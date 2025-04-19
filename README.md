@@ -1,6 +1,6 @@
 # TrapHive
 
-TrapHive is a modular honeypot framework designed to collect and analyze attack patterns through simulated SSH and HTTP (WordPress) vulnerable services. This tool enables security researchers and professionals to gather threat intelligence by monitoring attacker behavior in a controlled environment.
+TrapHive is a modular honeypot framework designed to collect and analyze attack patterns through simulated SSH and HTTP (WordPress) vulnerable services. This tool enables security researchers and professionals to gather threat intelligence by monitoring attacker's behavior in a controlled environment.
 
 
 ## Features
